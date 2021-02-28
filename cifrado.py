@@ -9,7 +9,7 @@ for i in range(len(mensaje)):
 	if alfabeto.find(mensaje[i]) == -1:
 		print ('Se han introducido caracteres no validos.')
 		sys.exit(1)	
-		
+
 # Guardamos la clave, eliminamos los espacios y lo tranformamos a mayuscula
 clave_original = str(input("Introduzca la palabra clave: "))
 clave_original = clave_original.replace(' ', '').upper()
