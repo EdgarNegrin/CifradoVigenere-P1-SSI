@@ -1,3 +1,6 @@
+'''
+Nombre: Edgar Negrin Gonzalez
+'''
 import sys
 
 alfabeto = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ' # Modulo 26 (Sin Ñ y con W)
