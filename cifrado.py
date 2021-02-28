@@ -1,5 +1,14 @@
 '''
-Nombre: Edgar Negrin Gonzalez
+Practica 1: Cifrado de Vigenere
+Fecha: 27/02/2021
+
+Autor: Edgar Negrin Gonzalez
+Email: alu0101210964@ull.edu.es
+
+Este programa pide por teclado un mensaje y una clave e implementa el cifrado y descifrado de Vigenere.
+Muestra los pasos seguidos para que se tenga conocimiento de como se realiza.
+
+Ejecucion: py cifrado.py
 '''
 import sys
 
