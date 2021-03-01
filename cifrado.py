@@ -6,7 +6,6 @@ Autor: Edgar Negrin Gonzalez
 Email: alu0101210964@ull.edu.es
 
 Este programa pide por teclado un mensaje y una clave e implementa el cifrado y descifrado de Vigenere.
-Muestra los pasos seguidos para que se tenga conocimiento de como se realiza.
 
 Ejecucion: py cifrado.py
 '''
@@ -83,9 +82,7 @@ def descifradoVigenere(mensaje_cifrado, alfabeto, clave):
 
 mensaje_cifrado = cifradoVigenere(mensaje, clave, alfabeto)
 mensaje_descifrado = descifradoVigenere(mensaje_cifrado, alfabeto, clave)
-print (mensaje + '\n' + clave + '\n' + mensaje_cifrado + '\n')
 print ('Mensaje cifrado: ' + mensaje_cifrado + '\n')
-print (mensaje_cifrado + '\n' + clave + '\n' + mensaje_descifrado + '\n')
 print ('Mensaje descifrado: ' + mensaje_descifrado + '\n')
 
 sys.exit(0)
