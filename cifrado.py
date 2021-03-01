@@ -5,7 +5,7 @@ Fecha: 27/02/2021
 Autor: Edgar Negrin Gonzalez
 Email: alu0101210964@ull.edu.es
 
-Este programa pide por teclado un mensaje y una clave e implementa el cifrado y descifrado de Vigenere.
+El programa pide por teclado un mensaje y una clave e implementa el cifrado y descifrado de Vigenere.
 
 Ejecucion: py cifrado.py
 '''
